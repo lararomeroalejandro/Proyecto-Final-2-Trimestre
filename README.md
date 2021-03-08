@@ -1,7 +1,7 @@
 # Proyecto Final - 2º Trimestre (por Alejandro Lara)
 
 Mi proyecto está basado en un bar de tapas ficticio llamado **"Sáciate!"**. 
-La base de datos de esta bar está organizada en tres colecciones funadamentales:
+La base de datos de este bar está organizada en tres colecciones funadamentales:
   * Carta. Contiene los platos que hay para servir actualmente en la carta del bar. Cada documento está compuesto
     por 6 campos de diversos tipos.
     
