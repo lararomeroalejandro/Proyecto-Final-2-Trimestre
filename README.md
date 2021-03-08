@@ -9,3 +9,5 @@ La base de datos de este bar está organizada en tres colecciones funadamentales
     tiene 4 campos.
     
   * Categoría. Contiene las categorías a las que pertenecen los distintos platos de la carta. Cada documento se conforma de 3 campos.
+
+Toda la documentación está disponible en la carpeta *doc*.
